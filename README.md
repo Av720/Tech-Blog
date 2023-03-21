@@ -29,8 +29,8 @@ npm i > npm start(to start the server)
 ## Preview
 
 Here is a screenshot of the application: 
-
-
+![Post2](https://user-images.githubusercontent.com/120581801/226502489-b02cbd71-1d27-4bb2-ae90-776bb6b470c0.png)
+![Blog1](https://user-images.githubusercontent.com/120581801/226502497-117e95c8-b8bb-4ff9-b835-e2a69eea646d.png)
 
 ## License
     This application is covered by the MIT license.
